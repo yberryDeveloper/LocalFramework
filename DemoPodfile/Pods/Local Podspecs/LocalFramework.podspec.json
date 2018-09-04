@@ -1,0 +1,19 @@
+{
+  "name": "LocalFramework",
+  "version": "1.0.0",
+  "summary": "This is such a local Framework.",
+  "description": "This is some Super framework that was made by Crazy guy.",
+  "homepage": "https://github.com/yberryDeveloper/LocalFramework",
+  "license": "MIT",
+  "authors": {
+    "Puneet ": "Puneet.yberry@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/yberryDeveloper/LocalFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LocalFramework/**/*"
+}
